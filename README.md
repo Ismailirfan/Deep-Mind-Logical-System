@@ -1,6 +1,8 @@
 # Deep-Mind-Logical-System
 A mental model combining logic, emotion, and light-based systems for human well-being.
 
+![Alt Text](images/your-image-name.png)
+
 ## Overview
 
 This repository contains the complete Deep Mind Logical System theory developed by **Ismail Irfan**. It presents a natural system of mental and emotional processing based on light, blood flow, eye movement, and logical recycling patterns. It aligns with the World Health Organization's definition of mental well-being and offers a new way of thinking about continuity, responsibility, and patience as the pillars of inner development.
