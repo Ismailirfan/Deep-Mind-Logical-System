@@ -35,6 +35,7 @@ This theory expands on WHO's definition by applying emotional forces and logical
 
 These are processed through eye movement and are influenced by how light enters the eye and blood circulates in response.
 
+![Deep Mind Logical System](DeepMindLogical(6).png)
 ---
 
 ## Eye Movement and Mental Logic
@@ -45,6 +46,7 @@ These are processed through eye movement and are influenced by how light enters 
 
 This movement controls how light enters the eye and stimulates different logical operations.
 
+![Deep Mind Logical System](DeepMindLogical(5).png)
 ---
 
 ## Light and Blood Circulation
@@ -54,6 +56,7 @@ This movement controls how light enters the eye and stimulates different logical
 
 The interaction between light and blood creates a feedback loop in mental processes.
 
+![Deep Mind Logical System](DeepMindLogical(3).png)
 ---
 
 ## Light and Water Theory
