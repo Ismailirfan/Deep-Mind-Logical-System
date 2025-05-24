@@ -111,6 +111,7 @@ This helps in reducing emotional confusion and enhances mindful communication.
 
 View the keyboard: [https://ismailirfan.github.io/My-Keyboard/](https://ismailirfan.github.io/My-Keyboard/)
 
+![Deep Mind Logical System](MyKeyBoard.png)
 ---
 
 ## Final Thought
