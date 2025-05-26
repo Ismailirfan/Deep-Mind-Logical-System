@@ -114,6 +114,23 @@ View the keyboard: [https://ismailirfan.github.io/My-Keyboard/](https://ismailir
 ![Deep Mind Logical System](MyKeyBoard.png)
 ---
 
+##Time Theory of Emotional Flow
+
+Time-Based Emotional Adjustment Theory:
+
+Suppose we want to adjust these three emotional elements—Hope, Patience, and Responsibility—within the framework of time. Let's imagine one hour divided equally into three 20-minute sections:
+
+• **First 20 minutes: Hope** — We begin with hope, where the mind generates vision and motivation.
+
+• **Next 20 minutes: Patience** — Once hope is formed, we enter a period of patience, allowing calm and stability.
+
+• **Final 20 minutes: Responsibility** — With patience matured, we transition into responsibility, enabling us to take meaningful, guided action.
+
+This cycle represents the internal clock of emotional growth and success. By following this structured emotional flow, we align our mental logic with natural timing—leading to more motivated hopes and sustainable achievement.
+
+![Deep Mind Logical System](MyTimeClock.png)
+
+---
 ## Final Thought
 
 > Quality is the main goal. Hope is the fuel.
