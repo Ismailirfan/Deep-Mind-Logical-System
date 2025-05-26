@@ -114,7 +114,7 @@ View the keyboard: [https://ismailirfan.github.io/My-Keyboard/](https://ismailir
 ![Deep Mind Logical System](MyKeyBoard.png)
 ---
 
-##Time Theory of Emotional Flow
+## Time Theory of Emotional Flow
 
 Time-Based Emotional Adjustment Theory:
 
